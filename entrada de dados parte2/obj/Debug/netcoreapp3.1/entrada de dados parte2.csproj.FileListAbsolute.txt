@@ -1,0 +1,12 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\bin\Debug\netcoreapp3.1\entrada de dados parte2.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\entrada de dados parte2\entrada de dados parte2\obj\Debug\netcoreapp3.1\entrada de dados parte2.genruntimeconfig.cache
